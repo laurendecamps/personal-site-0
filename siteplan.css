@@ -28,9 +28,48 @@ Fonts are separated by a | */
 
 
 /*  Look around below...but DON'T CHANGE ANYTHING! */
-logo{
-  width: 100px
+.logo {
+  width: 100px;
+  height: 100px;
 }
+.brushes {
+  width: 100%;
+  height: auto;
+}
+.paint  {
+  width: 100%;
+  height: auto;
+}
+.hills  {
+  width: 100%;
+  height: auto;
+}
+.mountain  {
+  width: 100%;
+  height: auto;
+}
+.palette  {
+  width: 100%;
+  height: auto;
+}
+.easel  {
+  width: 100%;
+  height: auto;
+}
+.home  {
+  width: 100%;
+  height: auto;
+}
+.gallery  {
+  width: 100%;
+  height: auto;
+}
+.contact  {
+  width: 100%;
+  height: auto;
+}
+
+
 body {
   max-width: 1200px;
   margin: 0 auto;
