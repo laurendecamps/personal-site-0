@@ -37,6 +37,7 @@ Fonts are separated by a | */
   height: auto;
 }
 .paint  {
+  float: left;
   width: 100%;
   height: auto;
 }
@@ -49,6 +50,7 @@ Fonts are separated by a | */
   height: auto;
 }
 .palette  {
+  float: right;
   width: 100%;
   height: auto;
 }
